@@ -1,3 +1,4 @@
+![MasterHead](Banner.png)
 <h1 align="center">Hi 👋, I'm Aman Pathak</h1>
 <h3 align="center">Software Engineer & Machine Learning Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src= "profile.gif">
